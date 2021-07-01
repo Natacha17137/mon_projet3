@@ -31,7 +31,7 @@ see <https://lienss.univ-larochelle.fr/Acces-aux-outils>
 - travaux dirigés avec des outils libres/données/code 
 - documents d'aide (forum MicMac, site web du laboratoire) 
 - publications avec la méthodologie et les codes python
-- suivi d'une stagiaire (Chumil Morales) qui a mis en place un script R pour l’étude d'herbiers sur la baie d’Yves par traitement d’images satellite Sentinel
+- suivi d'une stagiaire (Chumil Morales) qui a mis en place un script R pour l’étude d'herbiers sur la baie d’Yves par traitement d’images  du satellite Sentinel S2A
 ![](C:\Users\nvolto\Desktop\test_rmarkdown\fig\illu2.jpg)
 
 
@@ -39,7 +39,7 @@ see <https://lienss.univ-larochelle.fr/Acces-aux-outils>
 ## Reproductivité avec R
 
 
-- pour réaliser des chaines de traitement simples et facilement transférables en télédétection 
+- pour réaliser des chaines de traitements simples et facilement transférables en télédétection 
 
 - pour fournir un script simple pour réaliser les tâches après la création des modèles numériques de surface (évaluation de l'erreur verticale et statistiques)
 
